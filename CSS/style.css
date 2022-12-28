@@ -284,7 +284,7 @@ span.span{
 /* START ABOUT US */
 .about {
     min-height: 100vh;
-    background-image: url(/Imgs/about.jpg);
+    background-image: url("../Imgs/about.jpg");
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -377,7 +377,7 @@ p.des::first-letter {
 
 /* START CATALOGUE */
 .catalogue {
-    background-image: url(/Imgs/catalogue.jpg);
+    background-image: url("../Imgs/catalogue.jpg");
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
@@ -685,7 +685,7 @@ p.des::first-letter {
 /* START FORM */
 .purchase {
     height: 100vh;
-    background-image: url("/Imgs/form.jpg");
+    background-image: url("../Imgs/form.jpg");
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -803,7 +803,7 @@ p.des::first-letter {
 
 /* START FOOTER */
 footer {
-    background-image: url("/Imgs/ffff.jpg");
+    background-image: url("../Imgs/ffff.jpg");
     background-size: cover;
     height: 250px;
     position: relative;
